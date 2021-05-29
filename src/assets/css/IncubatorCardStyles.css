@@ -1,0 +1,99 @@
+.incubator-card {
+    background-color: #FFFFFF;
+    width: 218px;
+    height: 100%;
+    border-radius: 10px;
+    padding: 18.5px 16px 18.5px 16px;
+    float: left;
+    margin-top: 50px;
+    margin-right: 16px;
+}
+
+.incubator-card > img {
+    float: left;
+}
+
+.incubator-card-title {
+    display: inline-block;
+    float: left;
+    margin-top: 10%;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 8px;
+}
+
+.incubator-card-text {
+    clear: both;
+    padding: 16px 0;
+    font-weight: 500;
+    font-size: 9px;
+}
+
+.incubator-card-progress-title {
+    font-size: 12px;
+    font-weight: 600;
+    float: left;
+}
+
+.incubator-card-progress-text {
+    font-size: 8px;
+    font-weight: 600;
+    float: left;
+    margin-top: 1.25%;
+    margin-left: 40%;
+}
+
+.incubator-card-progress-funds {
+    font-size: 13px;
+    font-weight: bold;
+    clear: both;
+    padding: 4px 0 8px 0;
+}
+
+.progress-bar {
+    width: 187px;
+    height: 10px;
+    border-radius: 12.525px;
+    background-color: #E0E0E0;
+}
+
+.progress-bar-half {
+    position: absolute;
+    width: 93.5px;
+    height: 10px;
+    border-radius: 12.525px;
+    background-color: #FFC700;
+    margin-top: -.75%;
+}
+
+.fund-startup-link {
+    width: 85.5px;
+    height: 38px;
+    background-color: #141471;
+    color: #FFFFFF;
+    float: left;
+    font-weight: 700;
+    font-size: 9px;
+    margin-top: 16px;
+    border-radius: 2px;
+    font-weight: 700;
+    padding-top: 7%;
+    text-align: center;
+}
+
+.learn-more-link {
+    width: 85.5px;
+    height: 38px;
+    border: 1px solid #141471;
+    border-radius: 2px;
+    color: #141471;
+    float: left;
+    font-weight: 700;
+    font-size: 9px;
+    margin-top: 16px;
+    position: relative;
+    left: 16px;
+    font-weight: 700;
+    padding-top: 7%;
+    text-align: center;
+}

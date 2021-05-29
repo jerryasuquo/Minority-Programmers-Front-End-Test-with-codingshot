@@ -1,0 +1,100 @@
+.learn-body-card {
+    background-color: #FFFFFF;
+    width: 1165px;
+    height: 94px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 69px;
+    margin-left: 100px;
+}
+
+.learn-body-card-brand {
+    margin-top: 5px;
+}
+
+.learn-body-card-brand,
+.learn-body-card-progress,
+.learn-body-card-link {
+    float: left;
+}
+
+.learn-body-card-brand .fad {
+    font-size: 42px;
+    margin: 22.525px 32px 0 45px;
+    color: #000000;
+}
+
+.learn-body-card img {
+    /* float: left; */
+    width: 38px;
+    height: 37px;
+    margin: 23.5px 16px 0 16px;
+}
+
+.learn-body-card-title {
+    display: inline-block;
+
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+    top: -10px;
+}
+
+.learn-body-card-progress {
+    margin: 29.5px 0 0 135.95px;
+}
+
+.learn-body-card-progress-title {
+    font-size: 13.5px;
+    font-weight: 600;
+    float: left;
+}
+
+.learn-body-card-progress-text {
+    font-size: 9px;
+    font-weight: 600;
+    float: left;
+    margin-top: 1.5%;
+    margin-left: 25.5px;
+}
+
+.learn-body-card-progress-funds {
+    font-size: 16px;
+    font-weight: bold;
+    clear: both;
+    padding: 4px 0 8px 0;
+}
+
+.learn-body-progress-bar {
+    width: 187px;
+    height: 10px;
+    border-radius: 12.525px;
+    background-color: #E0E0E0;
+    position: relative;
+    bottom: 37px;
+    left: 210px;
+}
+
+.learn-body-progress-bar-half {
+    position: absolute;
+    left: 742px;
+    top: 224px;
+    width: 93.5px;
+    height: 10px;
+    border-radius: 12.525px;
+    background-color: #FFC700;
+    margin-top: -.75%;
+}
+
+.learn-body-card-link {
+    background-color: #FF00B8;
+    padding: 9.5px 32px;
+    border-radius: 2px;
+    margin: 28px 0 0 346px;
+}
+
+p.learn-body-fund-startup-link {
+   color: #FFFFFF;
+   font-weight: 700;
+   font-size: 14px;
+}

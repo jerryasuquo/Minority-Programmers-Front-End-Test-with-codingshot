@@ -1,0 +1,41 @@
+header {
+    background-color: #fff;
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+nav {
+    height: 100%;
+    padding: 14px 0 14px 90px;
+}
+
+nav img.brand-logo {
+    width: 100px;
+}
+
+span.social-links {
+    position: absolute;
+    display: inline-block;
+    margin: 30px 0 0 213.28px;
+}
+
+i {
+    color: #676565;
+    font-size: 24px;
+    margin-right: 32.41px;
+}
+
+ul {
+    list-style: none;
+    float: right;
+    margin-top: 10px;
+    position: relative;
+    right: 161.72px;
+}
+
+li {
+    float: left;
+    padding: 21.305px;
+    font-weight: 500;
+}
+

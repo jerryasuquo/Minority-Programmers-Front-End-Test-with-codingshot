@@ -1,0 +1,16 @@
+.load-more-link {
+    position: relative;
+    margin-top: 955px;
+    margin-left: 45%;
+    margin-bottom: 62.5px;
+    
+    width: fit-content;
+    border: 1px solid #FFFFFF;
+}
+
+.load-more-link > p {
+    font-size: 12px;
+    font-size: 700;
+    color: #FFFFFF;
+    padding: 8px 59px;
+}

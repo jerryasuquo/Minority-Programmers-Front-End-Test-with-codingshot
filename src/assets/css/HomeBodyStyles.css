@@ -1,0 +1,135 @@
+/* section {
+    position: relative;
+    left: 150px;
+} */
+
+.banner-img {
+    height: 537px;
+    background-image: url("../images/Rectangle 839.png");
+    background-repeat: no-repeat;
+    background-position-x: -175px;
+    background-size: cover;
+}
+
+.banner-info {
+    margin-left: 57.5%;
+    padding-top: 10%;
+}
+
+.banner-text {
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 75px;
+    color: #FFFFFF;
+    width: 556px;
+}
+
+.banner-link {
+    color: #FFFFFF;
+    background-color: #FF00B8;
+    width: 185.5px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 27%;
+    margin-top: 2.5%;
+}
+
+.main-text {
+    color: #FFFFFF;
+    width: 10%;
+    margin: 100px 0 0 100px;
+    float: left;
+}
+
+.main-text h1 {
+    font-size: 30px;
+}
+
+.main-text p {
+    font-size: 15px;
+}
+
+i.fa-arrow-circle-left {
+    float: left;
+    font-size: 42px;
+    color: #FFFFFF;
+    margin-top: 152.5px;
+    margin-right: 16px;
+    margin-left: 12px;
+}
+
+i.fa-arrow-circle-right {
+    float: left;
+    font-size: 42px;
+    color: #FFFFFF;
+    margin-top: 152.5px;
+}
+
+.main-photo {
+    margin-left: 100px;
+}
+
+.main-photo img {
+    width: 29.2%;
+    float: left;
+    margin-right: 16px;
+    margin-bottom: 64px;
+    margin-top: 64px;
+}
+
+.main-photo-link {
+    height: 38px;
+    border: 1px solid #FFFFFF;
+    position: absolute;
+    clear: both;
+    font-size: 12px;
+    font-size: 700;
+    color: #FFFFFF;
+    padding: 11px 32px;
+}
+
+.main-photo-advice {
+    margin-top: 37%;
+    margin-left: 7.5%;
+}
+
+.main-photo-ventures {
+    margin-top: 37%;
+    margin-left: 450px;
+}
+
+.main-photo-help {
+    margin-top: 37%;
+    margin-left: 875px;
+}
+
+.main-bottom {
+    clear: both;
+}
+
+.main-bottom-text {
+    float: left;
+    color: #FFFFFF;
+    width: 10%;
+    margin-top: 50px;
+    margin-left: 100px
+}
+
+.main-bottom-text h1 {
+    font-size: 30px;
+}
+
+.main-bottom-text p {
+    font-size: 15px;
+    width: 155%;
+}
+
+.main-bottom-card {
+    float: left;
+    margin-left: 91px;
+    margin-top: -3.5%;
+    margin-bottom: 20px;
+}
